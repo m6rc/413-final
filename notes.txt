@@ -1,0 +1,2 @@
+1. most south 56, most north 83 -> (-56->83lat). Lat stays the same
+2. long from -180 to 180. Long distance widest at equator.
